@@ -1,0 +1,5 @@
+{
+    "projects": {
+        "eslint": "git@github.com:spasdk/eslint.git"
+    }
+}
