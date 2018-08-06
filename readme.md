@@ -12,10 +12,10 @@ sudo npm install -g meta
 Get meta repo:
 
 ```bash
-git clone https://github.com/spasdk/meta.git @spasdk
+git clone https://github.com/spasdk/meta.git spasdk
 # or for Github users with granted access
-git clone git@github.com:spasdk/meta.git @spasdk
-cd @spasdk
+git clone git@github.com:spasdk/meta.git spasdk
+cd spasdk
 ```
 
 All preparations:
