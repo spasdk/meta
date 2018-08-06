@@ -1,5 +1,26 @@
 {
     "projects": {
-        "eslint": "git@github.com:spasdk/eslint.git"
+        "app":                    "git@github.com:spasdk/app.git",
+        "boilerplate":            "git@github.com:spasdk/boilerplate.git",
+        "component":              "git@github.com:spasdk/component.git",
+        "component-button":       "git@github.com:spasdk/component-button.git",
+        "component-checkbox":     "git@github.com:spasdk/component-checkbox.git",
+        "component-flicker":      "git@github.com:spasdk/component-flicker.git",
+        "component-grid":         "git@github.com:spasdk/component-grid.git",
+        "component-input":        "git@github.com:spasdk/component-input.git",
+        "component-list":         "git@github.com:spasdk/component-list.git",
+        "component-modal":        "git@github.com:spasdk/component-modal.git",
+        "component-page":         "git@github.com:spasdk/component-page.git",
+        "component-panel":        "git@github.com:spasdk/component-panel.git",
+        "component-progress-bar": "git@github.com:spasdk/component-progress-bar.git",
+        "component-scrollbar":    "git@github.com:spasdk/component-scrollbar.git",
+        "component-tab":          "git@github.com:spasdk/component-tab.git",
+        "component-widget":       "git@github.com:spasdk/component-widget.git",
+        "dom":                    "git@github.com:spasdk/dom.git",
+        "eslint":                 "git@github.com:spasdk/eslint.git",
+        "gettext":                "git@github.com:spasdk/gettext.git",
+        "preloader":              "git@github.com:spasdk/preloader.git",
+        "request":                "git@github.com:spasdk/request.git",
+        "wamp":                   "git@github.com:spasdk/wamp.git"
     }
 }
