@@ -14,5 +14,12 @@
     "dependencies": {
         "meta-npm": "^0.0.28"
     },
+    "keywords": [
+        "spa",
+        "sdk",
+        "spasdk",
+        "framework",
+        "meta"
+    ],
     "license": "GPL-3.0"
 }
