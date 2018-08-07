@@ -1,7 +1,7 @@
 {
     "name": "@spasdk/meta",
     "version": "1.0.0",
-    "description": "CJS SDK repositories management.",
+    "description": "SPA SDK repositories management.",
     "author": {
         "name": "Stanislav Kalashnik",
         "email": "darkpark.main@gmail.com"
