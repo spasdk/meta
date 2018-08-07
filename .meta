@@ -19,6 +19,7 @@
         "dom":                    "git@github.com:spasdk/dom.git",
         "eslint":                 "git@github.com:spasdk/eslint.git",
         "gettext":                "git@github.com:spasdk/gettext.git",
+        "keys":                   "git@github.com:spasdk/keys.git",
         "preloader":              "git@github.com:spasdk/preloader.git",
         "request":                "git@github.com:spasdk/request.git",
         "wamp":                   "git@github.com:spasdk/wamp.git"
