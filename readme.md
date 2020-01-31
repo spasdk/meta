@@ -3,28 +3,20 @@ SPA SDK management
 
 ## Usage ##
 
-Install global dependencies:
-
-```bash
-sudo npm install -g meta
-```
-
-Get meta repo:
-
-```bash
-git clone https://github.com/spasdk/meta.git spasdk
-# or for Github users with granted access
-git clone git@github.com:spasdk/meta.git spasdk
-cd spasdk
-```
-
-All preparations:
+Deployment:
 
 ```bash
 npm install
-meta git update
-meta npm install
-sudo meta npm link --all
+npx meta git update
+npx meta npm install
+sudo npx meta npm link --all
+```
+
+Get updates and check dependencies:
+
+```bash
+npx meta git pull
+npx meta npm outdated
 ```
 
 
